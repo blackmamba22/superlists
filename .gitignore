@@ -20,5 +20,5 @@ geckdriver.log
 venv
 .idea
 db.sqlite3
-geckdriver.log
-geckdriver
+geckodriver.log
+geckodriver
