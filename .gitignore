@@ -22,3 +22,4 @@ venv
 db.sqlite3
 geckodriver.log
 geckodriver
+/static
